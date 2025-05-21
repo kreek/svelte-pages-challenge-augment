@@ -48,7 +48,6 @@ Let's see if you can do it on the first try.
 
 ## Technical Specifications
 
-- Provide all necessary configuration files (package.json, svelte.config.js, etc.)
+- Use TypeScript
 - Include GitHub Actions workflow for automated deployment
 - Explain any GitHub repository settings that need to be configured
-- Address common deployment issues like base path problems and asset loading
